@@ -1,0 +1,23 @@
+.section-register .container {
+    max-width: 768px;
+}
+
+.pdr {
+    padding-right: 5px;
+}
+
+.pdl {
+    padding-left: 5px;
+}
+
+.width-50 {
+    width: 50%;
+    float: left;
+}
+
+
+/* login */
+
+.section-login .container {
+    max-width: 425px;
+}
